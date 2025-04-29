@@ -1,5 +1,5 @@
 <div id="header" align="center">                               
-  <img src="https://www.pinclipart.com/picdir/big/563-5630407_developer-png-png-download-computer-scientist-png-clipart.png" width="250"/>
+  <img src="https://www.pinclipart.com/picdir/big/563-5630407_developer-png-png-download-computer-scientist-png-clipart.png" width="450" />
 </div>
 
 ---
